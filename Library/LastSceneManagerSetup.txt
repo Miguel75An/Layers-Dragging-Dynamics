@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/00 Destroy when Colliding.unity
+- path: Assets/Scenes/04 Bottom Card Plus Rotation.unity
   isLoaded: 1
   isActive: 1

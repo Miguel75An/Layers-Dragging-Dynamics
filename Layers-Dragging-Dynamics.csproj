@@ -324,6 +324,11 @@
     <Compile Include="Assets\Scripts\DestroyWhenCollide.cs" />
     <Compile Include="Assets\Scripts\DogScript1.cs" />
     <Compile Include="Assets\Scripts\DogScript2.cs" />
+    <Compile Include="Assets\Scripts\GameManagerA.cs" />
+    <Compile Include="Assets\Scripts\ObjectDestroyer.cs" />
+    <Compile Include="Assets\Scripts\SignalOnRotate.cs" />
+    <Compile Include="Assets\Scripts\SignalOnTouch.cs" />
+    <Compile Include="Assets\Scripts\SpriteSwapper.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\LeanTouch\Examples\Fonts\OFL.txt" />
